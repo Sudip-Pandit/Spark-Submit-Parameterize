@@ -3,6 +3,6 @@ This gives a clear picture how to parameterize the spark jar files during spark-
 There are two ways to parameterize the spark-submit command.
 # 
 #
-# # Put some Spark in your data
+#Put some Spark in your data
 
 
